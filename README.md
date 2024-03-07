@@ -2,7 +2,7 @@
 
 由于个人能力有限，没法做到格式完全符合，如果有遗漏请发issue；本模板为非官方模板，从[ThuWordThesis](https://github.com/qbh16/ThuWordThesis)修改而来。
 
-没什么好说的，被学校三分第二课堂分气晕。
+刚花完一周时间改完论文模板就被学校三分第二课堂分气晕。在晕倒前上传了github。
 
 # 下载
 点上边那一堆文件里的hebeu-thesis-word.dotx，然后
