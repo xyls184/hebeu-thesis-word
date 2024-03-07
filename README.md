@@ -1,18 +1,12 @@
 # 简介
 
-《清华大学本科学位论文Word模板》依据清华大学教务处发布的《本科生综合论文训练论文写作指南》制作。
-
-《清华大学研究生学位论文Word模板》依据清华大学研究生院发布的《研究生学位论文写作指南》制作。
-
-《Word公式输入指南》用于辅助输入公式。
+没什么好说的，被学校气晕
 
 # 下载
+点上边那一堆文件里的hebeu-thesis-word.dotx，然后
+![image](https://github.com/xyls184/hebeu-thesis-word/assets/20354136/63f6c2a0-90b4-4101-8cad-daab99995f70)
 
-+ [GitHub](https://github.com/qbh16/ThuWordThesis)
-+ [百度网盘](https://pan.baidu.com/s/1LDODxkVPQTx366GQayHVGg?pwd=word)
 
-#  关于
+#  Licence
 
-欢迎Star、Issue，转载注明出处即可。
-
-联系作者：<qbh2020@foxmail.com>
+不知道什么协议，但是原作者说转载注明[出处](https://github.com/qbh16/ThuWordThesis)即可。
