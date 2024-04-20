@@ -7,7 +7,7 @@
 刚花完一周时间改完论文模板就被学校三分第二课堂分气晕。在晕倒前上传了github。
 
 # 下载
-release
+[release](https://github.com/xyls184/hebeu-thesis-word/releases/tag/release)
 
 
 #  Licence
